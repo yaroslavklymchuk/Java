@@ -1,0 +1,10 @@
+fix 1 Ivan Petrov 1300.0
+hour 2 Yaroslav Klymchuk 5.0
+fix 3  Maria Ovcharuk 800.0
+hour 4 Kate Onishuk 6.0
+hour 5 Vasyl Kolobeichuk 4.0
+fix 6 Grisha Melnichenko 1200.0
+hour 7 Vitaly Buterin 3.0
+fix 8 Sergii Smirnov 980.0
+fix 9 Yurii Perga 1300.0
+fix 10 Oles Dovhu 1300.0
